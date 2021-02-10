@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Stencil+Text:wght@500&family=Fredericka+the+Great&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merienda+One&display=swap');
+
+body{
+    background-color: 	#F0F0F0;
+    margin: 0%;
+}
+.div1{
+    width: 46%;
+    height: 153px;
+    background-color: 	#F0F0F0;
+    padding-top: 1px;
+    margin-left: 373px;
+    margin-top: 54px;
+    box-shadow: 5px 5px 8px 10px #888888;
+}
+.div2{
+    width: 58%;
+    height: 110px;
+    float: left;
+
+}
+.h1{
+    margin-left: 30px;
+    margin-top: 42px;
+    font-size: 58px;
+    font-family: 'Acme', sans-serif;
+    color: #333366;
+}
+.div3{
+    width: 40%;
+    height: 110px;
+    float: left;
+  
+}
+.img1{
+    width: 211px;
+    height: 45px;
+    float: left;
+    margin-top: 59px;
+    margin-left: 24px;
+}
+.div4{
+    width: 70%;
+    height: 400px;
+    float: left;
+    margin-left: 174px;
+    margin-top: 87px;
+    background-color: 	#F0F0F0;
+    box-shadow: 5px 5px 8px 10px #888888;
+}
+.div5{
+    width: 98%;
+    height: 72px;
+    text-align: center;
+ 
+}
+.h2{
+    font-family: 'Fredericka the Great', cursive;
+    text-shadow: 2px 2px 4px #888888;
+}
+.div6{
+    width: 98%;
+    height: 300px;
+}
+.div7{
+    width: 65%;
+    height: 180px;
+    float: left;
+}
+.div8{
+    width: 30%;
+    height: 180px;
+    float: left;
+}
+.t1{
+    width: 62%;
+    height: 180px;
+    margin-left: 321px;
+    font-size: 21px;
+    font-family: 'Bebas Neue', cursive;
+}
+.t2{
+    width: 99%;
+    height: 180px;
+    float: left;
+}
+.btn{
+    margin-left: 461px;
+    margin-top: 39px;
+    box-shadow: 1px 1px 2px 2px #888888;
+    font-family: 'Merienda One', cursive;
+    font-weight: bold;
+}
+span{
+    font-size: 15px;
+	font-family: Arial;
+	color: #FF0052;
+}   
